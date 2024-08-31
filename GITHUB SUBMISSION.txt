@@ -1,0 +1,118 @@
+IN-LAB TASKS:
+Find the maximum number in any of the three variables.
+Pseudo Code:
+1.	Start
+2.	
+3.	//Input/Output
+4.	INPUT number A
+5.	INPUT number B
+6.	INPUT number C
+7.	
+8.	//conditional statement
+9.	IF number A> number B> number C
+10.	 PRINT “number A is maximum”.
+11.	 
+12.	ELSE IF number B> number A> number C
+13.	PRINT “number B is maximum”.
+14.	ELSE IF number C> number A> number C
+15.	PRINT “Number C is maximum”.
+16.	 END
+
+
+
+TASK 2:
+Implement an algorithm where the user enters a number, and an appropriate month is displayed.
+ALGORITHM:
+1. Take a number input from the user from 1-12.
+2. If user enters anything other than specified number range display error message.
+3. If user enters 1 display month January, if 2 display February, if 3 then March follow same sequence for other numbers and if the user enters 12 display December.
+
+
+HOME SUBMISSION:
+
+OBJECTIVE 2: PSEUDOCODE
+TASK 2:
+ 
+SOLUTION:
+1.Start
+2.
+3.//INPUT: A, B, C
+4.
+5.//Variables Initialization
+6.result=B
+7.
+8.//Process Steps
+While A>0
+result=result -(-1)
+A=A-1
+9. while C>0
+Result=result-(-1)
+C=C-1
+10. //OUTPUT: result of three added numbers without using + operator
+
+
+
+PSEUDOUCODE
+TASK 3:
+ 
+SOLUTION:
+1.	Start
+2.	
+3.	//INPUT: num1, num2, operator
+4.	Input num1
+5.	Input num2
+6.	Ask for operator from user (- or +)
+7.	
+8.	//CONDITONAL STATEMENT
+9.	IF operator is +
+10.	 Print =num1+num2
+11.	ELSE IF operator is -
+12.	Print =num1-num2
+13.	 ELSE IF 
+14.	Print “the operation entered is invalid (only + and – allowed)”
+15.	 END
+
+
+
+
+
+
+
+OBJECTIVE 3: ALGORITHM
+TASK 1:
+ 
+SOLUTION:
+1. Ask user for a number (n).
+2. Ask user for a nth divisor of a number (n).
+3. Check if the number(n)%nth is equal to zero.
+4.Display nth is a divisor of number(n).
+5. Check if number(n)%nth is not equal to zero.
+6.Display n is not a divisor of number(n).
+7. Check number(n)%2 is zero.
+8. Display number is even.
+9. Check if number(n)%2 is not zero.
+10. Display number is odd.
+
+
+
+
+
+ALGORITHM:
+TASK 3:
+ SOLUTION:
+1.Ask user for a number 1
+2.Ask user for number 2
+3. Ask user to input operator (+, -, *, /)
+4. Check operator match ‘+’
+5. Display answer= number1+number2
+6.Check operator match ‘-’
+7. Display answer= number1-number2
+8. Check operator match ‘*’
+9. Display answer= number1*number2
+10 Check operator match ‘/’
+11. Display answer= number1/number2.
+12. Check operator not match (+, -, *, /).
+13. Display Error! operator not recognized.
+
+
+
