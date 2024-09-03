@@ -1,3 +1,17 @@
-1.Divide the number by 2\ If the remainder is 0, it is an even number; otherwise, it is odd.\
-2.Multiply the number by 2.\If the result is the same as the input, it is even; otherwise, it is odd.\
-3.Use the modulo operator (%)./If n % 2 == 0, it is even; otherwise, it is odd.\
+**TASK**\ : Identify odd or even numbers.
+
+
+SOLUTION:
+1. Ask user for a number (n).
+2. Ask user for a nth divisor of a number (n).
+3. Check if the number(n)%nth is equal to zero.
+4.Display nth is a divisor of number(n).
+5. Check if number(n)%nth is not equal to zero.
+6.Display n is not a divisor of number(n).
+7. Check number(n)%2 is zero.
+8. Display number is even.
+9. Check if number(n)%2 is not zero.
+10. Display number is odd.
+
+
+
